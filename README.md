@@ -35,7 +35,7 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://dsudi1113/node-graphql-mongodb.git
+   git clone https://github.com/dsudi1113/node-graphql-mongodb.git
    cd node-graphql-mongodb
    ```
 2. Install dependencies:
